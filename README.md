@@ -22,5 +22,3 @@
 
 ---
 
-### 📌 Pinned work
-*(add repos here as you publish them — writeups, tooling scripts, sanitized report templates)*
