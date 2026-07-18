@@ -6,7 +6,6 @@
 - 🧠 Focus: OWASP Top 10, JWT manipulation, authN/authZ bypass, XSS/SQLi/CSRF
 - 🛠️ Daily tools: Burp Suite, OWASP ZAP, Metasploit, Nmap, Gobuster, Nikto, Hydra
 - 📜 CEH | Google Cybersecurity Professional Cert | Microsoft Cybersecurity Analyst Cert | Fortinet Certified Associate
-- 🚩 Actively solving rooms/machines on TryHackMe & HackTheBox
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/muhammadahsanayaz) · muhammadahsin443@gmail.com
 
 ---
